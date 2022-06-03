@@ -22,6 +22,21 @@ body {
   font-size: 14px;
 }
 
+.input-container
+{
+    position: absolute;
+    top: 20%;
+    left: 12%;
+    transform: trabslate (-50%, -50%);
+    padding: 30px 120px;
+    box-shadow: 3px 3px 10px 0px #000;
+    border-radius: 15px;
+   width: 75vw;
+   height: 550px;
+}
+
+
+
 /* line 11, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
